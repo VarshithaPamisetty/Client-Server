@@ -1,0 +1,3 @@
+commands
+login v v123
+register v v123
